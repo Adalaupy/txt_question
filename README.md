@@ -5,7 +5,7 @@
 
 
 # General Information
-I got a text file with more than 400 sample question of Azure AZ-900 Examination. However, the efficiency of studying is quite low if I just study this txt file as I can't really test how much I understand since I can see the correctly answers directly, besides, it's inconvenient for me to mark down the questions that I answered incorrectly. To improve my study process, I create a web page and make it like a multiple choice question paper. 
+I got a text file with more than 400 sample question of Azure AZ-900 Examination. However, the efficiency of studying is quite low if I just study this txt file as I can't really test how much I understand since I can see the correctly answers directly, besides, it's inconvenient for me to mark down the questions that I answered incorrectly. To improve my study process, I create a web page and make it like a multiple choice question paper, and Quiz result and correct answer will be provided too.
 
 
 # Step of using 
